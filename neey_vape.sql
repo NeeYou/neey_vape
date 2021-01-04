@@ -1,0 +1,1 @@
+INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES (NULL, 'vape', 'E-papieros', -1, 0, 1);
